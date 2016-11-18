@@ -45,3 +45,6 @@ ln -s /Applications/OnionShare.app/Contents/Resources/onionshare /usr/local/bin/
 ```
 
 From that point on you can just call `onionshare`, like: `onionshare --help`
+
+
+[DO](https://m.do.co/c/f31e941aecd1)
